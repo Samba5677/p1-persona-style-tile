@@ -1,0 +1,145 @@
+/***************/
+/* YOUR STYLES */
+/***************/
+
+/* Body */
+body {
+   background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/dark_embroidery.png") 25% 25%;
+}
+
+/* Color Palette */
+/* Used colors from www.colourlovers.com, and was made by somersetbayern */
+.color-1 {
+   background: #5A0300; 
+}
+.color-2 {
+    background: #820808;
+}
+.color-3 {
+    background: #525252;
+}
+.color-4 {
+    background: #383737;
+}
+.color-5 {
+    background: #000000;
+}
+
+/* Textures or Patterns*/
+.pattern-1 {
+    background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/cartographer.png");
+}
+.pattern-2 {
+    background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/dark_wood.png");
+}
+.pattern-3 {
+    background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/argyle.png");
+}
+.pattern-4 {
+    background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/bo_play_pattern.png");
+}
+.pattern-5 {
+    background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/escheresque_ste.png");
+}
+
+/* Imagery */
+img {
+    size: 75%;
+}
+
+/* Icons */
+.icon-1,
+.icon-2,
+.icon-3,
+.icon-4,
+.icon-1 {
+    border: none;
+}
+
+/* Navigation */
+a {
+    color: #525252;
+    text-decoration: none;
+    font-family: 'Leckerli One';
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+a:hover {
+    color: #820808;
+    text-decoration: underline;
+}
+
+nav li {
+    list-style: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+nav a:link {
+    color: darkgoldenrod;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: none;
+    font-family: ;
+    font-weight: bold;
+}
+
+button {
+    padding: 10px;
+    background: #383737;
+    color: #000000;
+    border: #525252 solid 4px;
+    border-radius: 30px;
+}
+
+button:hover {
+    background: #5A0300;
+    color: #820808;
+    border: #820808 solid 4px;
+}
+
+/* Typography */
+
+h1, h2 {
+		font-family: 'Leckerli One';
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+h1 {
+    text-align: center;
+    color: #5A0300;
+}
+
+h2 {
+    color: #5A0300;
+    
+}
+
+h3 {
+    color: #525252;
+	font-family: Yellowtail;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+p {
+    text-align: center;
+    color: #000000;
+    	font-family: Federant;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
